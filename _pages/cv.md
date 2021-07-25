@@ -58,4 +58,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-You can download a PDF copy of my CV [here]
+You can download a PDF copy of my CV [here](http://academicpages.github.io/files/Sidharth_Kumar_Resume.pdf).
