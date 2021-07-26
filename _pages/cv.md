@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electrical Engineering, IIT Delhi, 2017
-* M.S. in Electrical Engineering, IIT Delhi, 2019
+* B.Tech in Electrical Engineering, IIT Delhi, 2013-17
+* M.S. in Electrical Engineering, IIT Delhi, 2017-19
 * Ph.D in Electrical and Computer Engineering, UT Austin, 2019-ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Engineering Intern
+  * Qualcomm, San Diego
+  * System-level simulations for single-frequency networks
+  * Manager:- Alberto Rico Alvarino, Mentor:- Ayan Sengupta 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Intern
+  * University of California, San Diego
+  * Wireless power transfer using capacitive coupling methods
+  * Supervisor: Prof. Dinesh Bharadia
+
+* Summer 2017: Research Assistant
+  * IIT Delhi
+  * Wireless Channel Propagation Model for RF Energy Transfer
+  * Supervisor: Prof. Swades De
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab, C++
 
 Publications
 ======
@@ -58,4 +58,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-You can download a PDF copy of my CV [here](http://academicpages.github.io/files/Sidharth_Kumar_Resume.pdf).
+You can download a PDF copy of my CV [here](http://sidharthkumar10500.github.io/files/Sidharth_Kumar_Resume.pdf).
