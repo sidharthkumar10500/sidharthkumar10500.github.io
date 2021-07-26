@@ -36,26 +36,16 @@ Technical Skills
 ======
 * Python, Matlab, C++
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer (Conferences) :
+  * IEEE Vehicular Technology Conference (2019, 2020)
+  * IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) (2018)
+* Reviewer (Journals) : 
+  * IEEE Transactions on Communications
+  * IEEE Transactions on Multimedia
+  * IEEE Transactions on Vehicular Technology
+
 
 You can download a PDF copy of my CV [here](http://sidharthkumar10500.github.io/files/Sidharth_Kumar_Resume.pdf).
