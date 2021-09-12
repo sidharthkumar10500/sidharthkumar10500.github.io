@@ -1,6 +1,3 @@
 Changes that need to be made in the website. 
-1. Add current research paragraph in the about me page. 
-2. Correct the research page
-3. Update the CV to show the current material that you have
-4. Start adding software and related links
-5. 
+1. Start adding software and related links
+2.  

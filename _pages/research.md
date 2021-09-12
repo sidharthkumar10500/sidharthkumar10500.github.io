@@ -19,16 +19,16 @@ author_profile: true
 p { margin-bottom: -10px; }
 </style>
 
-<font face="helvetica" size="3"> <p>In my research career, I have worked on the following topics.</p><br>
+<font face="helvetica" size="3"> <p>In my research career, I have worked on the following topics till now.</p><br>
 
 <font face="helvetica" color="#A93226" size="4.5">
           <p>Current Research: Computational MRI</p></font>
 
 <font face="helvetica" size="3"> 
 <ul>
-<li> Working on using deep learning methods to create arbitrary contrasts from quantitative MR parameter maps estimated from undersampled k-space MRI data using low-rank subspace-based methods.  </li>
+<li> Working on using deep learning methods correct the arbritrary contrasts created using synthetic MRI maps. The current sequences used to estimate MRI parameter maps cannot include all the underlying physics or accounting them would result in a very long sequence. The aim of my current work is to translate the synthetic generated contrasts to clinically relevant contrasts.  </li>
 
-<li> Also looking at estimating the tissue parameter maps directly from the undersampled k-space data using physics-based modeling. 
+<li> In parallel, I am also looking at estimating the tissue parameter maps directly from the undersampled k-space data using physics-based modeling techniques. 
 </li>
 
 </ul>
