@@ -17,7 +17,6 @@ My current research interests are in using deep learning and signal processing t
 
 
 
- -->
 <font face="helvetica" size="3"><p align="justify">You can download my <a href="http://sidharthkumar10500.github.io/files/Sidharth_Kumar_Resume.pdf" target="_blank">CV</a> here.</p></font>
 
 
