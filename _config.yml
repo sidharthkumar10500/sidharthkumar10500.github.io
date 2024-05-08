@@ -86,7 +86,7 @@ author:
   location         : "Austin, TX"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8jcAxX8AAAAJ&hl=en&oi=ao"
   email            : "sidharth.kumar@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

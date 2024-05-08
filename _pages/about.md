@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font face="helvetica" size="3"><p align="justify">I am a PhD student working with Prof. <a href="http://users.ece.utexas.edu/~jtamir/" target="_blank">Jon Tamir</a> at University of Texas at Austin. My current research interests are in using deep learning and signal processing tools to improve medical imaging specially MRI, inverse problems, and computer vision.
+<font face="helvetica" size="3"><p align="justify">I am a PhD student working with Prof. <a href="http://users.ece.utexas.edu/~jtamir/" target="_blank">Jon Tamir</a> at University of Texas at Austin. My current research interests are in using generative machine learning and other deep learning tools to improve medical imaging specially MRI, to solve inverse problems more efficiently, and other computer vision related tasks.
 </p>
 
 <font face="helvetica" size="3"><p align="justify">
