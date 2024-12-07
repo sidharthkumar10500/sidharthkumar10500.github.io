@@ -20,7 +20,7 @@ I graduated with B.Tech and MS from the Indian Institute of Technology, Delhi. A
 
 <font face="helvetica" size="3"><p align="justify">You can download my <a href="http://sidharthkumar10500.github.io/files/Sidharth_Kumar_Resume.pdf" target="_blank">CV</a> here.</p></font>
 
-<font face="helvetica" color="#FF0000" size="3"><p align="justify">I am in the job market in 2024! Please get in touch with me if you have any potential opportunities.</p></font>
+<!-- <font face="helvetica" color="#FF0000" size="3"><p align="justify">I am in the job market in 2024! Please get in touch with me if you have any potential opportunities.</p></font> -->
 
 
 
