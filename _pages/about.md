@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<font face="helvetica" size="3"><p align="justify">I am a PhD student working with Prof. <a href="http://users.ece.utexas.edu/~jtamir/" target="_blank">Jon Tamir</a> at University of Texas at Austin. My current research interests are in using generative machine learning and other deep learning tools to improve medical imaging specially MRI, to solve inverse problems more efficiently, and other computer vision related tasks.
+<font face="helvetica" size="3"><p align="justify">Since December 2024, I’ve been working as a Systems Engineer in the AI Solutions Group at Texas Instruments' Dallas office.
 </p>
 
 <font face="helvetica" size="3"><p align="justify">
-Before sept. 2020, I worked with Prof. 
- <a href="https://scholar.google.com/citations?user=17Ko8Q0AAAAJ&hl=en&oi=ao" target="_blank">Robert W. Heath Jr.</a> on low-resolution DACs at UT Austin.
-I graduated with B.Tech and MS from the Indian Institute of Technology, Delhi. At IIT Delhi, I worked on wireless energy transfer, UAV based communication, supervised by Prof. <a href="https://web.iitd.ac.in/~swadesd/" target="_blank"> Swades De</a> at CNRG lab.  
+I completed my PhD at the University of Texas at Austin, where I worked with Prof. <a href="http://users.ece.utexas.edu/~jtamir/" target="_blank">Jon Tamir</a> on developing generative machine learning and deep learning techniques to improve medical imaging—particularly MRI—and tackle inverse problems more efficiently.
+</p>
+
+<font face="helvetica" size="3"><p align="justify">
+Earlier in my PhD, I worked with Prof. <a href="https://scholar.google.com/citations?user=17Ko8Q0AAAAJ&hl=en&oi=ao" target="_blank">Robert W. Heath Jr.</a> on low-resolution DACs for wireless communication. I hold a B.Tech and M.S. from the Indian Institute of Technology, Delhi, where I worked on wireless energy transfer and UAV-based communication under the guidance of Prof. <a href="https://web.iitd.ac.in/~swadesd/" target="_blank"> Swades De</a> at the CNRG lab.
 
 </p>
 
